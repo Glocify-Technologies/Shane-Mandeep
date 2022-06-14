@@ -1,0 +1,6 @@
+framework module Pods_pr469_dogtraining_ios {
+  umbrella header "Pods-pr469-dogtraining-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

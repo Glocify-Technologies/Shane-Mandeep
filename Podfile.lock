@@ -1,0 +1,71 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - FSCalendar (2.8.2)
+  - RappleProgressHUD (4.1)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+  - SDWebImagePDFCoder (0.8.0):
+    - SDWebImage (~> 5.10)
+  - SDWebImageSwiftUI (2.0.2):
+    - SDWebImage (~> 5.10)
+  - Stripe (22.4.0):
+    - Stripe/Stripe3DS2 (= 22.4.0)
+    - StripeApplePay (= 22.4.0)
+    - StripeCore (= 22.4.0)
+    - StripeUICore (= 22.4.0)
+  - Stripe/Stripe3DS2 (22.4.0):
+    - StripeApplePay (= 22.4.0)
+    - StripeCore (= 22.4.0)
+    - StripeUICore (= 22.4.0)
+  - StripeApplePay (22.4.0):
+    - StripeCore (= 22.4.0)
+  - StripeCore (22.4.0)
+  - StripeUICore (22.4.0):
+    - StripeCore (= 22.4.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage
+  - FSCalendar
+  - RappleProgressHUD
+  - SDWebImagePDFCoder
+  - SDWebImageSwiftUI
+  - Stripe
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - FSCalendar
+    - RappleProgressHUD
+    - SDWebImage
+    - SDWebImagePDFCoder
+    - SDWebImageSwiftUI
+    - Stripe
+    - StripeApplePay
+    - StripeCore
+    - StripeUICore
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  SDWebImagePDFCoder: 999ba0184a07bbaffb73484b169ca01d25d64562
+  SDWebImageSwiftUI: 8a3923c95108312b03a599ec1498754af55a6819
+  Stripe: a925dfa9a7e51aa8f782f428abc10cb828b45a85
+  StripeApplePay: 369857bafe8baf02e31b47478db1574febd2a2f3
+  StripeCore: a94d2823817c97c79fce60884ab9027a2da798c1
+  StripeUICore: a8e24a6c91a5c99075c7a490d45695fb912876e8
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 627f656b5984121d9901f925ce08af258b7f3752
+
+COCOAPODS: 1.11.3
